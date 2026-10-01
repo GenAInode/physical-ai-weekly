@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0"
+ xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd"
+ xmlns:content="http://purl.org/rss/1.0/modules/content/">
+<channel>
+<title>Physical AI Weekly</title>
+<link>https://genainode.github.io/physical-ai-weekly/</link>
+<description>A weekly executive briefing on the technologies, companies and real-world developments shaping Physical AI, robotics and embodied intelligence.</description>
+<language>en-us</language>
+<itunes:author>Physical AI Weekly</itunes:author>
+<itunes:explicit>false</itunes:explicit>
+<itunes:type>episodic</itunes:type>
+<itunes:category text="Technology"/>
+<itunes:image href="https://genainode.github.io/physical-ai-weekly/artwork/physical-ai-weekly-cover.jpg"/>
+
+<item>
+<title>Physical AI Meets Reality</title>
+<description>Humanoid robots are getting better. But can Physical AI become reliable, safe and economical enough to scale in the real world? Episode 1 looks beyond the demos: Tesla Optimus and manufacturing, humanoid safety, the robotics data bottleneck, multi-robot collaboration, and what Amazon's robotics scale tells us about specialized automation versus general-purpose humanoids.</description>
+<content:encoded><![CDATA[
+<p>Humanoid robots are getting better. But this week's developments point to a harder question: can Physical AI become reliable, safe and economical enough to scale in the real world?</p>
+<p>In our first episode, we look beyond the demos and examine five developments shaping the transition from impressive prototypes to deployed physical intelligence.</p>
+<h3>In this episode</h3>
+<ul>
+<li><strong>Tesla Optimus and the manufacturing challenge</strong> : why scaling a humanoid is not simply an AI problem, and why hands, assembly complexity, reliability and supply chains matter.</li>
+<li><strong>Making humanoids safe around people</strong> : new Carnegie Mellon and Siemens research on safe stoppability, and why simply freezing a moving robot can create a new safety problem.</li>
+<li><strong>The robotics data bottleneck</strong> : how Light-O1 explores learning physical-action knowledge from human video, and why human video, simulation and teleoperation may all be needed.</li>
+<li><strong>Robots working together</strong> : CMU's LAMP research and the challenge of coordinating multiple robots that physically manipulate the same object.</li>
+<li><strong>The commercial reality check</strong> : what Amazon's robotics scale tells us about the economics of specialized automation versus general-purpose humanoids.</li>
+</ul>
+<h3>What we're watching</h3>
+<p><strong>Sustained real-world deployment:</strong> How many robots are actually working, for how many hours, on which tasks, and how often do humans need to intervene?</p>
+<p><strong>Manufacturing economics:</strong> Credible evidence on production volumes, reliability, maintenance and cost.</p>
+]]></content:encoded>
+<pubDate>Thu, 01 Oct 2026 15:00:00 GMT</pubDate>
+<guid isPermaLink="false">physical-ai-weekly-episode-01</guid>
+<enclosure url="https://genainode.github.io/physical-ai-weekly/episodes/episode-01.mp3" length="9908713" type="audio/mpeg"/>
+<itunes:duration>00:10:19</itunes:duration>
+<itunes:episode>1</itunes:episode>
+<itunes:episodeType>full</itunes:episodeType>
+<itunes:explicit>false</itunes:explicit>
+</item>
+</channel>
+</rss>
