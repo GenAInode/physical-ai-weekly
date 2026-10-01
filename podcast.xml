@@ -21,11 +21,11 @@
 <p>In our first episode, we look beyond the demos and examine five developments shaping the transition from impressive prototypes to deployed physical intelligence.</p>
 <h3>In this episode</h3>
 <ul>
-<li><strong>Tesla Optimus and the manufacturing challenge</strong> : why scaling a humanoid is not simply an AI problem, and why hands, assembly complexity, reliability and supply chains matter.</li>
-<li><strong>Making humanoids safe around people</strong> : new Carnegie Mellon and Siemens research on safe stoppability, and why simply freezing a moving robot can create a new safety problem.</li>
-<li><strong>The robotics data bottleneck</strong> : how Light-O1 explores learning physical-action knowledge from human video, and why human video, simulation and teleoperation may all be needed.</li>
-<li><strong>Robots working together</strong> : CMU's LAMP research and the challenge of coordinating multiple robots that physically manipulate the same object.</li>
-<li><strong>The commercial reality check</strong> : what Amazon's robotics scale tells us about the economics of specialized automation versus general-purpose humanoids.</li>
+<li><strong>Tesla Optimus and the manufacturing challenge</strong>: why scaling a humanoid is not simply an AI problem, and why hands, assembly complexity, reliability and supply chains matter.</li>
+<li><strong>Making humanoids safe around people</strong>: new Carnegie Mellon and Siemens research on safe stoppability, and why simply freezing a moving robot can create a new safety problem.</li>
+<li><strong>The robotics data bottleneck</strong>: how Light-O1 explores learning physical-action knowledge from human video, and why human video, simulation and teleoperation may all be needed.</li>
+<li><strong>Robots working together</strong>: CMU's LAMP research and the challenge of coordinating multiple robots that physically manipulate the same object.</li>
+<li><strong>The commercial reality check</strong>: what Amazon's robotics scale tells us about the economics of specialized automation versus general-purpose humanoids.</li>
 </ul>
 <h3>What we're watching</h3>
 <p><strong>Sustained real-world deployment:</strong> How many robots are actually working, for how many hours, on which tasks, and how often do humans need to intervene?</p>
