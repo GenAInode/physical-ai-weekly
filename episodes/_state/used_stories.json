@@ -29,6 +29,30 @@
       "url": "source",
       "episode": 1,
       "week": "2026-10-16"
+    },
+    {
+      "title": "Volvo's Autonomous Truck Improves Self-Learning with Reinforcement Methods",
+      "url": null,
+      "episode": 2,
+      "week": "2026-10-16"
+    },
+    {
+      "title": "NeuRa Develops Advanced Material Recognition for Robots Using Tactile Sensors",
+      "url": null,
+      "episode": 2,
+      "week": "2026-10-16"
+    },
+    {
+      "title": "Open-Sourcing of QuantNav for Improved Robot Navigation",
+      "url": "https://example.com",
+      "episode": 2,
+      "week": "2026-10-16"
+    },
+    {
+      "title": "Self-Repairing Robots: New Sensor Technology Developed by Protosense",
+      "url": "https://example.com",
+      "episode": 2,
+      "week": "2026-10-16"
     }
   ]
 }
