@@ -13,6 +13,21 @@
 <itunes:category text="Technology"/>
 <itunes:image href="https://genainode.github.io/physical-ai-weekly/artwork/physical-ai-weekly-cover.jpg"/>
 
+
+<item>
+<title>Autonomy Without the Safety Net?</title>
+<description>Self-learning trucks, richer robotic touch, open-source navigation, and localized self-repair promise less human intervention. This week, we ask what evidence turns those capabilities into dependable work—and real commercial value.</description>
+<content:encoded><![CDATA[
+<p>This week on Physical AI Weekly, four reported developments point toward robots that need less human help. We examine where the engineering promise ends and the evidence for reliable, cost-effective operation still needs to begin.</p><h3>In this episode</h3><ul><li><strong>Volvo's learning trucks</strong>: Reported reinforcement-learning enhancements target better driving decisions and path planning. We separate that progress from claims of unrestricted on-road learning, demonstrated safety gains, or proven operating savings.</li><li><strong>NeuRa's richer sense of touch</strong>: Higher-sensitivity tactile sensors reportedly improve material recognition. The commercial test is whether better sensory information translates into better handling outcomes at manageable integration cost.</li><li><strong>QuantNav's reported open-source release</strong>: More accessible mapping and positioning software could support reuse and collaboration, but access is not deployment readiness. The supplied source link is a placeholder, and availability and performance have not been independently verified.</li><li><strong>Protosense's localized self-repair</strong>: Reported sensors and smart materials aim to detect damage and trigger healing—not fix every broken component. Repair limits, restored function, and reliability across environments remain key questions; the supplied source link is also a placeholder.</li></ul><p>Greater autonomy creates value when it removes work rather than relocating it. These separate advances do not establish a fully self-sufficient robot: each needs validation against a specific task, a clear baseline, and the human intervention it promises to eliminate.</p><h3>What we're watching</h3><ul><li><strong>Comparable operating evidence</strong>: Measured reductions in intervention and improvements in task outcomes against previous systems.</li><li><strong>From announcement to integration</strong>: Usable tactile-sensing and navigation implementations, alongside clearly defined repair capabilities tested under varied conditions.</li></ul>
+]]></content:encoded>
+<pubDate>Fri, 16 Oct 2026 11:16:55 GMT</pubDate>
+<guid isPermaLink="false">physical-ai-weekly-episode-02</guid>
+<enclosure url="https://genainode.github.io/physical-ai-weekly/episodes/episode-02.mp3" length="6246669" type="audio/mpeg"/>
+<itunes:duration>00:11:54</itunes:duration>
+<itunes:episode>2</itunes:episode>
+<itunes:episodeType>full</itunes:episodeType>
+<itunes:explicit>false</itunes:explicit>
+</item>
 <item>
 <title>Physical AI Meets Reality</title>
 <description>Humanoid robots are getting better. But can Physical AI become reliable, safe and economical enough to scale in the real world? Episode 1 looks beyond the demos: Tesla Optimus and manufacturing, humanoid safety, the robotics data bottleneck, multi-robot collaboration, and what Amazon's robotics scale tells us about specialized automation versus general-purpose humanoids.</description>
