@@ -53,6 +53,36 @@
       "url": "https://example.com",
       "episode": 2,
       "week": "2026-10-16"
+    },
+    {
+      "title": "Tesla Optimus manufacturing scaling challenge (hands, assembly complexity, supply chains)",
+      "url": null,
+      "episode": 1,
+      "week": "2026-10-01"
+    },
+    {
+      "title": "Carnegie Mellon and Siemens research on humanoid safe stoppability around people",
+      "url": null,
+      "episode": 1,
+      "week": "2026-10-01"
+    },
+    {
+      "title": "Light-O1 learning physical-action knowledge from large-scale human video (robotics data bottleneck)",
+      "url": null,
+      "episode": 1,
+      "week": "2026-10-01"
+    },
+    {
+      "title": "CMU LAMP research on multi-robot coordination for shared object manipulation",
+      "url": null,
+      "episode": 1,
+      "week": "2026-10-01"
+    },
+    {
+      "title": "Amazon robotics scale as a benchmark for specialized automation vs general-purpose humanoids",
+      "url": null,
+      "episode": 1,
+      "week": "2026-10-01"
     }
   ]
 }
