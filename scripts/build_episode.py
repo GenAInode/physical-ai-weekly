@@ -46,9 +46,9 @@ def make_silence(duration_ms, workdir):
     return path
 
 
-def merge_segments(work_path, segments, pause_ms, output_path):
+def merge_segments(work_path, segments, default_pause_ms, output_path):
     with tempfile.TemporaryDirectory() as tmpdir:
-        silence_path = make_silence(pause_ms, tmpdir)
+        silence_cache = {}
         list_path = os.path.join(tmpdir, "concat_list.txt")
         ordered = sorted(segments, key=lambda s: s["id"])
         with open(list_path, "w") as f:
@@ -56,7 +56,10 @@ def merge_segments(work_path, segments, pause_ms, output_path):
                 seg_path = os.path.join(work_path, seg["fileName"])
                 f.write(f"file '{os.path.abspath(seg_path)}'\n")
                 if i < len(ordered) - 1:
-                    f.write(f"file '{os.path.abspath(silence_path)}'\n")
+                    pause_ms = seg.get("pause_after_ms") or default_pause_ms
+                    if pause_ms not in silence_cache:
+                        silence_cache[pause_ms] = make_silence(pause_ms, tmpdir)
+                    f.write(f"file '{os.path.abspath(silence_cache[pause_ms])}'\n")
         cmd = [
             "ffmpeg", "-y",
             "-f", "concat", "-safe", "0",
