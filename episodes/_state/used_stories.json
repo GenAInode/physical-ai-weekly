@@ -1,0 +1,34 @@
+{
+  "stories": [
+    {
+      "title": "Daimon Robotics debuts tactile-grounded Physical AI via Friendship Bracelet stringing at IROS 2026",
+      "url": "source",
+      "episode": 1,
+      "week": "2026-10-16"
+    },
+    {
+      "title": "H2L’s BodySharing® Physical AI achieves 95% task success with just 15‑minutes of human proprioception data",
+      "url": "source",
+      "episode": 1,
+      "week": "2026-10-16"
+    },
+    {
+      "title": "Axonex AI Group joins FLAIR’s Embodied AI Applications Hub and launches education humanoid TOMO",
+      "url": "source",
+      "episode": 1,
+      "week": "2026-10-16"
+    },
+    {
+      "title": "Cerence AI and Geely expand conversational AI into embodied robotics at Paris Motor Show",
+      "url": "source",
+      "episode": 1,
+      "week": "2026-10-16"
+    },
+    {
+      "title": "AWS open‑sources Physical AI toolchain based on NVIDIA’s robotics stack",
+      "url": "source",
+      "episode": 1,
+      "week": "2026-10-16"
+    }
+  ]
+}
