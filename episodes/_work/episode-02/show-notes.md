@@ -1,3 +1,0 @@
-# Episode 2: Verified Research Comes First
-
-<p>Physical AI Weekly is awaiting the verified research needed to build an evidence-based episode.</p><h3>In this episode</h3><ul><li><strong>Research required</strong>: The supplied research is undefined. Please provide the verified weekly research JSON, including source IDs, and the intended episode number; episode zero is a placeholder.</li></ul><p>Credible coverage starts with verified sources. Until then, stay grounded.</p>
