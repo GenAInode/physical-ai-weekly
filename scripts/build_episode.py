@@ -37,7 +37,7 @@ def make_silence(duration_ms, workdir):
     duration_s = duration_ms / 1000.0
     cmd = [
         "ffmpeg", "-y", "-f", "lavfi",
-        "-i", "anullsrc=r=44100:cl=mono",
+        "-i", "anullsrc=r=24000:cl=mono",
         "-t", str(duration_s),
         "-q:a", "9",
         path,
