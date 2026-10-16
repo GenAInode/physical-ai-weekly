@@ -118,7 +118,7 @@ def build_rss_item(manifest, padded, duration_str, file_size, pub_date):
 def insert_item_into_feed(feed_path, item_xml):
     with open(feed_path, "r", encoding="utf-8") as f:
         content = f.read()
-    marker = re.search(r"<itunes:image[^/]*/>\s*\n", content)
+    marker = re.search(r"<itunes:image.*?/>\s*\n", content)
     if not marker:
         raise RuntimeError(f"Could not find insertion marker in {feed_path}")
     insert_at = marker.end()
