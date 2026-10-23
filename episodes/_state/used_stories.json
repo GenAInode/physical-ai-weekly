@@ -107,6 +107,30 @@
       "url": "https://www.marketscreener.com/news/physical-ai-schaeffler-and-wandelbots-enter-into-technology-partnership-ce785cd9d18bf124",
       "episode": 3,
       "week": "2026-10-22"
+    },
+    {
+      "title": "Intel seeks a maintenance waiver as foreign-robot restrictions reach semiconductor factories",
+      "url": "https://news.bloomberglaw.com/tech-and-telecom-law/intel-asks-fcc-to-allow-upgrades-for-banned-foreign-robots-1",
+      "episode": 4,
+      "week": "2026-10-22"
+    },
+    {
+      "title": "Eka raises $150 million for force-aware manipulation, with laboratory throughput of 1,500 picks an hour",
+      "url": "https://ekarobotics.com/blog/eka-robotics-raises-150m-to-build-superhuman-intelligence-for-the-physical-world",
+      "episode": 4,
+      "week": "2026-10-22"
+    },
+    {
+      "title": "Audi discloses a three-robot parts-sequencing trial in its Production Lab",
+      "url": "https://www.audi.com/en/press-releases/agile-robots-and-audi-to-transform-automotive-logistics-with-mobile-humanoids-supported-by-dassault-systemes-and-nvidia-18390",
+      "episode": 4,
+      "week": "2026-10-22"
+    },
+    {
+      "title": "AGCO signs a commercial agreement for a 2027 Digit pilot in Hesston, Kansas",
+      "url": "https://news.agcocorp.com/2026-10-20-AGCO-and-Agility-Robotics-Advance-Smart-Manufacturing-with-Humanoid-Robot-Pilot-in-Hesston,-Kansas,-Facility",
+      "episode": 4,
+      "week": "2026-10-22"
     }
   ]
 }

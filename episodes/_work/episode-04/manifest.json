@@ -1,0 +1,274 @@
+{
+  "episode_number": 4,
+  "episode_number_padded": "04",
+  "title": "Robots Meet Factory Reality",
+  "short_description": "Intel is seeking permission to maintain and upgrade foreign-built robots already working in its US chip factories, making serviceability a production-continuity issue. Audi’s three-robot trial, Eka’s $150 million funding round and AGCO’s planned factory pilot show how adaptable material handling is moving toward practical industrial tests.",
+  "show_notes_html": "<p>Factory automation depends on more than robot capability: equipment must fit the workflow, deliver reliable performance and remain serviceable. This week’s stories connect the challenge of maintaining installed robots with customer trials and new funding for more adaptable material handling.</p><h3>In this episode</h3><ul><li><strong>Intel’s maintenance challenge</strong>: Intel filed an FCC waiver request on October 16 to maintain and upgrade foreign-built material-carrying robots in its US chip factories, with the regulatory outcome still unresolved. For industrial leaders, service permissions and equipment origin now belong alongside reliability in long-term automation planning.</li><li><strong>Audi’s parts-sequencing trial</strong>: Audi disclosed progress on a three-robot Production Lab trial with Agile Robots, Dassault Systèmes and NVIDIA, targeting a wider sequencing workflow that handles roughly one million picks daily. Success could let automotive operators automate more varied parts flows while preserving existing racks and containers.</li><li><strong>Eka’s bet on touch</strong>: Eka Robotics raised $150 million for robots that use contact to guide object handling, reporting laboratory performance of up to 1,500 operations an hour. For warehouse and assembly leaders, touch-based handling is becoming a supplier differentiator, with sustained full-shift performance the next business test.</li><li><strong>AGCO’s Kansas commitment</strong>: AGCO signed an agreement with Agility Robotics for a Digit pilot expected to begin in 2027 at its Hesston factory, starting with parts sorting, stacking and tote placement. For manufacturing leaders, focused material-handling trials offer a practical way to assess humanoids before deciding whether to expand.</li></ul><p>The strongest business signals are specific workflows, named customers and equipment already supporting production. Useful automation earns its place through dependable operation—and the ability to keep it running.</p><h3>What we're watching</h3><ul><li><strong>Intel’s regulatory response</strong>: The FCC’s decision could shape how industrial companies plan maintenance and upgrades for installed robot fleets.</li><li><strong>Performance in the factory</strong>: Watch Audi’s progress toward operational sequencing, Eka’s sustained-shift results and AGCO’s 2027 task performance for evidence that capability translates into productive work.</li></ul>",
+  "pauseMsDefault": 300,
+  "segments": [
+    {
+      "id": 1,
+      "speaker": "host",
+      "text": "Intel has asked federal regulators for permission to maintain and upgrade foreign-built robots already working in its American chip factories. This week, the common thread is what it takes to make automation useful—and keep it useful—inside an industrial operation.",
+      "topic_id": "opening",
+      "pause_after_ms": 300,
+      "fileName": "001-host.mp3"
+    },
+    {
+      "id": 2,
+      "speaker": "host",
+      "text": "Let's get into it. Welcome to Physical AI Weekly. I'm Sarah. Daniel, take us inside the factory.",
+      "topic_id": "opening",
+      "pause_after_ms": 300,
+      "fileName": "002-host.mp3"
+    },
+    {
+      "id": 3,
+      "speaker": "expert",
+      "text": "Hello, I'm Daniel. The revealing moves this week involve materials handling: equipment already carrying parts, and robots being prepared to handle more varied work.",
+      "topic_id": "opening",
+      "pause_after_ms": 700,
+      "fileName": "003-expert.mp3"
+    },
+    {
+      "id": 4,
+      "speaker": "host",
+      "text": "Intel's waiver request concerns its existing fleet. What does it need permission to do?",
+      "topic_id": "story-1",
+      "pause_after_ms": 300,
+      "fileName": "004-host.mp3"
+    },
+    {
+      "id": 5,
+      "speaker": "expert",
+      "text": "Intel filed the request with the Federal Communications Commission on October sixteenth. It wants to maintain and upgrade foreign-made automated guided vehicles—the robots carrying materials around its semiconductor factories. The issue is how restrictions on foreign equipment apply to hardware modifications. Reporting identifies existing relief for software updates through January first, 2029.",
+      "topic_id": "story-1",
+      "pause_after_ms": 300,
+      "fileName": "005-expert.mp3"
+    },
+    {
+      "id": 6,
+      "speaker": "host",
+      "text": "So the immediate business exposure is maintaining equipment the factories already depend on. How readily could Intel replace it?",
+      "topic_id": "story-1",
+      "pause_after_ms": 300,
+      "fileName": "006-host.mp3"
+    },
+    {
+      "id": 7,
+      "speaker": "expert",
+      "text": "Intel says no proven domestic alternative meets its requirements, and replacement would take years. That makes the ability to service installed automation a continuity issue for production managers. Independent reporting establishes the petition, but whether the restrictions cover Intel's vehicles remains unresolved. The request is not an exemption already granted.",
+      "topic_id": "story-1",
+      "pause_after_ms": 300,
+      "fileName": "007-expert.mp3"
+    },
+    {
+      "id": 8,
+      "speaker": "host",
+      "text": "The new development is a major factory operator seeking maintenance relief for an installed robot fleet.",
+      "topic_id": "story-1",
+      "pause_after_ms": 300,
+      "fileName": "008-host.mp3"
+    },
+    {
+      "id": 9,
+      "speaker": "expert",
+      "text": "For a factory leader, service permissions and manufacturing origin now belong alongside reliability in long-term automation planning.",
+      "topic_id": "story-1",
+      "pause_after_ms": 300,
+      "fileName": "009-expert.mp3"
+    },
+    {
+      "id": 10,
+      "speaker": "host",
+      "text": "That installed-equipment challenge connects to Audi's test of robots designed to fit a complicated materials workflow.",
+      "topic_id": "story-1",
+      "pause_after_ms": 700,
+      "fileName": "010-host.mp3"
+    },
+    {
+      "id": 11,
+      "speaker": "host",
+      "text": "Audi has disclosed a three-robot parts-sequencing trial in its Production Lab. What work are those robots being asked to take on?",
+      "topic_id": "story-3",
+      "pause_after_ms": 300,
+      "fileName": "011-host.mp3"
+    },
+    {
+      "id": 12,
+      "speaker": "expert",
+      "text": "Putting factory parts into the order production needs them. Audi is working with Agile Robots, Dassault Systèmes and NVIDIA. Initial trials began in spring 2025; this week's news is the disclosure of progress and the current robot count. Audi's wider sequencing operation handles roughly one million picks daily, which shows the scale of the workflow being targeted.",
+      "topic_id": "story-3",
+      "pause_after_ms": 300,
+      "fileName": "012-expert.mp3"
+    },
+    {
+      "id": 13,
+      "speaker": "host",
+      "text": "One million picks is the wider operation, not what these three robots have achieved. Where does adaptability help?",
+      "topic_id": "story-3",
+      "pause_after_ms": 300,
+      "fileName": "013-host.mp3"
+    },
+    {
+      "id": 14,
+      "speaker": "expert",
+      "text": "The robots have two-armed upper bodies on mobile bases, targeting mixed containers and large or flexible parts. The potential benefit is handling variation without rebuilding racks and containers around every task. A virtual copy of the workflow helps the partners evaluate timing and safety before operational deployment. Audi confirms the lab trial; readiness for production sequencing remains the key unknown.",
+      "topic_id": "story-3",
+      "pause_after_ms": 300,
+      "fileName": "014-expert.mp3"
+    },
+    {
+      "id": 15,
+      "speaker": "host",
+      "text": "The takeaway: Audi has three robots testing a specific logistics job, with trials dating back to last year.",
+      "topic_id": "story-3",
+      "pause_after_ms": 300,
+      "fileName": "015-host.mp3"
+    },
+    {
+      "id": 16,
+      "speaker": "expert",
+      "text": "For automotive operators, success here could open automation to more varied parts flows while preserving existing material presentation.",
+      "topic_id": "story-3",
+      "pause_after_ms": 300,
+      "fileName": "016-expert.mp3"
+    },
+    {
+      "id": 17,
+      "speaker": "host",
+      "text": "Handling that variation is also the business problem behind Eka Robotics' new funding.",
+      "topic_id": "story-3",
+      "pause_after_ms": 700,
+      "fileName": "017-host.mp3"
+    },
+    {
+      "id": 18,
+      "speaker": "host",
+      "text": "Eka has raised 150 million dollars. What capability is attracting that capital?",
+      "topic_id": "story-2",
+      "pause_after_ms": 300,
+      "fileName": "018-host.mp3"
+    },
+    {
+      "id": 19,
+      "speaker": "expert",
+      "text": "Robots that use what they feel to guide how they handle objects. Eka's funding round was led by Andreessen Horowitz and F-Prime. The company combines hands, sensors and control so contact can inform the next movement—like adjusting your grip when something starts slipping, or easing a part into place when you feel resistance.",
+      "topic_id": "story-2",
+      "pause_after_ms": 300,
+      "fileName": "019-expert.mp3"
+    },
+    {
+      "id": 20,
+      "speaker": "host",
+      "text": "Eka reports up to fifteen hundred operations an hour. Should a warehouse operator treat that as an achievable production rate?",
+      "topic_id": "story-2",
+      "pause_after_ms": 300,
+      "fileName": "020-host.mp3"
+    },
+    {
+      "id": 21,
+      "speaker": "expert",
+      "text": "Treat it as an indication of capability. Eka compares that figure with a roughly six-hundred-an-hour human baseline. Those are company-reported laboratory results, without independent confirmation; sustained full-shift performance is the key unknown. The industrial opportunity is bin picking and handling variable parts, where sensing contact could help robots manage objects that resist a predictable grip or movement.",
+      "topic_id": "story-2",
+      "pause_after_ms": 300,
+      "fileName": "021-expert.mp3"
+    },
+    {
+      "id": 22,
+      "speaker": "host",
+      "text": "In brief, 150 million dollars is backing force-aware handling, with speed demonstrated in the laboratory.",
+      "topic_id": "story-2",
+      "pause_after_ms": 300,
+      "fileName": "022-host.mp3"
+    },
+    {
+      "id": 23,
+      "speaker": "expert",
+      "text": "For warehouse and assembly leaders, this signals a supplier landscape increasingly competing on handling difficult objects, with touch becoming a potentially important capability.",
+      "topic_id": "story-2",
+      "pause_after_ms": 300,
+      "fileName": "023-expert.mp3"
+    },
+    {
+      "id": 24,
+      "speaker": "host",
+      "text": "From financing that capability to committing a factory for testing: AGCO has signed an agreement with Agility Robotics.",
+      "topic_id": "story-2",
+      "pause_after_ms": 700,
+      "fileName": "024-host.mp3"
+    },
+    {
+      "id": 25,
+      "speaker": "host",
+      "text": "The agricultural-machinery manufacturer expects a Digit robot pilot at its Hesston, Kansas, factory in 2027. What makes this commitment meaningful?",
+      "topic_id": "story-6",
+      "pause_after_ms": 300,
+      "fileName": "025-host.mp3"
+    },
+    {
+      "id": 26,
+      "speaker": "expert",
+      "text": "There is a named industrial customer, a specific factory and an initial set of jobs: sorting parts, stacking and placing totes. That gives the trial a practical focus on material-handling gaps. The agreement extends Digit's customer base into another manufacturing environment, and pairs the robots with Agility's fleet-management software.",
+      "topic_id": "story-6",
+      "pause_after_ms": 300,
+      "fileName": "026-expert.mp3"
+    },
+    {
+      "id": 27,
+      "speaker": "host",
+      "text": "Those are supporting jobs around production. How should a factory leader read that choice of scope?",
+      "topic_id": "story-6",
+      "pause_after_ms": 300,
+      "fileName": "027-host.mp3"
+    },
+    {
+      "id": 28,
+      "speaker": "expert",
+      "text": "As a focused way to explore where humanoids might fit into factory work. Sorting and tote placement give the customer concrete tasks to assess before considering expansion. AGCO confirms the agreement for a future pilot; how Digit performs those tasks in the factory remains untested. The 2027 timing puts operational learning ahead of any conclusion about wider deployment.",
+      "topic_id": "story-6",
+      "pause_after_ms": 300,
+      "fileName": "028-expert.mp3"
+    },
+    {
+      "id": 29,
+      "speaker": "host",
+      "text": "The concrete move is AGCO's commitment to a Kansas factory pilot next year, starting with parts and tote handling.",
+      "topic_id": "story-6",
+      "pause_after_ms": 300,
+      "fileName": "029-host.mp3"
+    },
+    {
+      "id": 30,
+      "speaker": "expert",
+      "text": "For manufacturing leaders, the near-term workforce implication is concentrated in supporting material-handling tasks, with expansion dependent on learning from those initial jobs.",
+      "topic_id": "story-6",
+      "pause_after_ms": 300,
+      "fileName": "030-expert.mp3"
+    },
+    {
+      "id": 31,
+      "speaker": "host",
+      "text": "Let's bring those factory commitments together with the maintenance question we started with.",
+      "topic_id": "story-6",
+      "pause_after_ms": 700,
+      "fileName": "031-host.mp3"
+    },
+    {
+      "id": 32,
+      "speaker": "expert",
+      "text": "This week connects two sides of automation: keeping established systems serviceable and testing new capabilities against specific industrial jobs. The strongest business signals are the named workflows and customer commitments. Watch the federal regulator's response to Intel's maintenance request: it concerns equipment already supporting production.",
+      "topic_id": "closing",
+      "pause_after_ms": 300,
+      "fileName": "032-expert.mp3"
+    },
+    {
+      "id": 33,
+      "speaker": "host",
+      "text": "Thanks for listening to Physical AI Weekly. See you next Friday.",
+      "topic_id": "closing",
+      "pause_after_ms": 300,
+      "fileName": "033-host.mp3"
+    }
+  ]
+}
