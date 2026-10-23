@@ -16,6 +16,21 @@
 
 
 
+
+<item>
+<title>Automation Around the Work</title>
+<description>AEON has opened a 40,000-square-metre fulfilment centre in Tokyo with robots handling frozen goods, forecasting 2.7 times the frozen-goods handling capacity of its first centre. Alongside Siemens’ live-factory AI tests, it shows how industrial companies can target the preparation, handling and support work that constrains production.</description>
+<content:encoded><![CDATA[
+<p>Automation is reaching beyond core production into cold storage, production planning, machine support and robot training. This week’s developments offer distinct levels of proof—from an operating customer site to live-factory tests and development infrastructure.</p><h3>In this episode</h3><ul><li><strong>AEON automates frozen fulfilment</strong>: AEON Next opened its 40,000-square-metre Hachioji centre with Ocado’s AutoFreezer, forecasting 2.7 times its first centre’s frozen-goods handling capacity and roughly 50% less storage area. For cold-chain leaders, the operating site makes automation a concrete option for addressing throughput, space and freezer exposure together, with projected benefits still to be demonstrated.</li><li><strong>Siemens prepares production with AI</strong>: Siemens is testing inspection preparation and production planning at its Erlangen factory, reporting potential engineering-effort reductions of up to 85% as a company-reported upper bound. For manufacturers, these focused workflows offer a practical route to faster product introductions and order response while human planners retain decisions.</li><li><strong>Mitsubishi connects machines and humanoids</strong>: Mitsubishi Electric announced a development system that coordinates humanoid support work with metal-cutting machines through ordinary-language instructions, with a public demonstration planned for October 26. For machining businesses, the opportunity is to automate setup, cleaning and exception handling around existing equipment, subject to reliable end-to-end operation being demonstrated.</li><li><strong>RoboGym builds industrial skills</strong>: The Technical University of Munich and NEURA opened a shared training centre with about 100 robots across 48 training cells, backed by a three-year collaboration worth approximately €17 million. For manufacturing leaders, shared training infrastructure offers a way to turn operators’ process knowledge into robot skills, with reliable transfer into customer factories still to be proven.</li></ul><p>The executive opportunity is in the work surrounding production: preparing, coordinating, handling and teaching. Match each opportunity to its evidence level, and judge progress by measurable operating outcomes.</p><h3>What we're watching</h3><ul><li><strong>AEON’s workforce benefit</strong>: Whether the Hachioji ramp-up delivers projected freezer working time below 5% of the corresponding time at its first centre.</li></ul>
+]]></content:encoded>
+<pubDate>Fri, 23 Oct 2026 09:38:44 GMT</pubDate>
+<guid isPermaLink="false">physical-ai-weekly-episode-05</guid>
+<enclosure url="https://genainode.github.io/physical-ai-weekly/episodes/episode-05.mp3" length="3496173" type="audio/mpeg"/>
+<itunes:duration>00:06:38</itunes:duration>
+<itunes:episode>5</itunes:episode>
+<itunes:episodeType>full</itunes:episodeType>
+<itunes:explicit>false</itunes:explicit>
+</item>
 <item>
 <title>Robots Meet Factory Reality</title>
 <description>Intel is seeking permission to maintain and upgrade foreign-built robots already working in its US chip factories, making serviceability a production-continuity issue. Audi’s three-robot trial, Eka’s $150 million funding round and AGCO’s planned factory pilot show how adaptable material handling is moving toward practical industrial tests.</description>
