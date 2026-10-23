@@ -131,6 +131,30 @@
       "url": "https://news.agcocorp.com/2026-10-20-AGCO-and-Agility-Robotics-Advance-Smart-Manufacturing-with-Humanoid-Robot-Pilot-in-Hesston,-Kansas,-Facility",
       "episode": 4,
       "week": "2026-10-22"
+    },
+    {
+      "title": "Mitsubishi Electric connects humanoids and CNC machines through an AI task planner",
+      "url": "https://www.mitsubishielectric.com/en/pr/2026/1021_rd/",
+      "episode": 5,
+      "week": "2026-10-23"
+    },
+    {
+      "title": "Siemens discloses live-factory AI inspection and production-planning tests",
+      "url": "https://press.siemens.com/global/en/pressrelease/siemens-partners-nvidia-advance-ai-driven-autonomous-factories?trk=public_post_comment-text",
+      "episode": 5,
+      "week": "2026-10-23"
+    },
+    {
+      "title": "AEON starts Hachioji fulfilment operations with Ocado frozen-goods automation",
+      "url": "https://prtimes.jp/main/html/rd/p/000000065.000136256.html",
+      "episode": 5,
+      "week": "2026-10-23"
+    },
+    {
+      "title": "TUM and NEURA open a 100-robot training centre for industrial skills",
+      "url": "https://www.mirmi.tum.de/en/mirmi/news/article/qa-on-the-tum-robogym-powered-by-neura/?cHash=7b02894a869a9e511fd9bfe386acfc7b&tx_news_pi1%5BcurrentPage%5D=3",
+      "episode": 5,
+      "week": "2026-10-23"
     }
   ]
 }

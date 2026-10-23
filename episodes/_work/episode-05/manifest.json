@@ -1,0 +1,202 @@
+{
+  "episode_number": 5,
+  "episode_number_padded": "05",
+  "title": "Automation Around the Work",
+  "short_description": "AEON has opened a 40,000-square-metre fulfilment centre in Tokyo with robots handling frozen goods, forecasting 2.7 times the frozen-goods handling capacity of its first centre. Alongside Siemens’ live-factory AI tests, it shows how industrial companies can target the preparation, handling and support work that constrains production.",
+  "show_notes_html": "<p>Automation is reaching beyond core production into cold storage, production planning, machine support and robot training. This week’s developments offer distinct levels of proof—from an operating customer site to live-factory tests and development infrastructure.</p><h3>In this episode</h3><ul><li><strong>AEON automates frozen fulfilment</strong>: AEON Next opened its 40,000-square-metre Hachioji centre with Ocado’s AutoFreezer, forecasting 2.7 times its first centre’s frozen-goods handling capacity and roughly 50% less storage area. For cold-chain leaders, the operating site makes automation a concrete option for addressing throughput, space and freezer exposure together, with projected benefits still to be demonstrated.</li><li><strong>Siemens prepares production with AI</strong>: Siemens is testing inspection preparation and production planning at its Erlangen factory, reporting potential engineering-effort reductions of up to 85% as a company-reported upper bound. For manufacturers, these focused workflows offer a practical route to faster product introductions and order response while human planners retain decisions.</li><li><strong>Mitsubishi connects machines and humanoids</strong>: Mitsubishi Electric announced a development system that coordinates humanoid support work with metal-cutting machines through ordinary-language instructions, with a public demonstration planned for October 26. For machining businesses, the opportunity is to automate setup, cleaning and exception handling around existing equipment, subject to reliable end-to-end operation being demonstrated.</li><li><strong>RoboGym builds industrial skills</strong>: The Technical University of Munich and NEURA opened a shared training centre with about 100 robots across 48 training cells, backed by a three-year collaboration worth approximately €17 million. For manufacturing leaders, shared training infrastructure offers a way to turn operators’ process knowledge into robot skills, with reliable transfer into customer factories still to be proven.</li></ul><p>The executive opportunity is in the work surrounding production: preparing, coordinating, handling and teaching. Match each opportunity to its evidence level, and judge progress by measurable operating outcomes.</p><h3>What we're watching</h3><ul><li><strong>AEON’s workforce benefit</strong>: Whether the Hachioji ramp-up delivers projected freezer working time below 5% of the corresponding time at its first centre.</li></ul>",
+  "pauseMsDefault": 300,
+  "segments": [
+    {
+      "id": 1,
+      "speaker": "host",
+      "text": "AEON has opened a forty-thousand-square-metre fulfilment centre in Tokyo with robots handling frozen goods. This week, the connecting thread is automation reaching the work around production: cold storage, planning, machine support and teaching robots industrial skills.",
+      "topic_id": "opening",
+      "pause_after_ms": 300,
+      "fileName": "001-host.mp3"
+    },
+    {
+      "id": 2,
+      "speaker": "host",
+      "text": "Let's get into it. Welcome to Physical AI Weekly. I'm Sarah, and Daniel, start us off.",
+      "topic_id": "opening",
+      "pause_after_ms": 300,
+      "fileName": "002-host.mp3"
+    },
+    {
+      "id": 3,
+      "speaker": "expert",
+      "text": "Hello, everyone. I'm Daniel. The strongest starting point this week is a customer opening an operating site.",
+      "topic_id": "opening",
+      "pause_after_ms": 650,
+      "fileName": "003-expert.mp3"
+    },
+    {
+      "id": 4,
+      "speaker": "host",
+      "text": "AEON Next's second fulfilment centre started full operation this week in Hachioji, Tokyo. What changes for the people and products moving through it?",
+      "topic_id": "story-3",
+      "pause_after_ms": 300,
+      "fileName": "004-host.mp3"
+    },
+    {
+      "id": 5,
+      "speaker": "expert",
+      "text": "It introduces Ocado's AutoFreezer into AEON's operations: specialised robots move frozen goods through dense grid storage. Robotic picking and mobile robots moving refrigerated-area carts are also part of the site. The business significance is that one configuration tackles three connected constraints: frozen-food throughput, refrigerated floor space and the time people spend working in the freezer.",
+      "topic_id": "story-3",
+      "pause_after_ms": 300,
+      "fileName": "005-expert.mp3"
+    },
+    {
+      "id": 6,
+      "speaker": "host",
+      "text": "Cold storage makes both space and working conditions consequential. How much improvement is AEON expecting?",
+      "topic_id": "story-3",
+      "pause_after_ms": 300,
+      "fileName": "006-host.mp3"
+    },
+    {
+      "id": 7,
+      "speaker": "expert",
+      "text": "AEON forecasts frozen-goods inbound and outbound capacity at two-point-seven times its first centre, roughly fifty percent less storage area, and freezer working time below five percent of the corresponding time at that first centre. Customer and supplier confirm the opening, but those benefits remain forecasts awaiting operating results. Further picking, packing and loading robots will be added according to product volumes, so the configuration will develop as demand grows.",
+      "topic_id": "story-3",
+      "pause_after_ms": 300,
+      "fileName": "007-expert.mp3"
+    },
+    {
+      "id": 8,
+      "speaker": "host",
+      "text": "So AEON now has an operating frozen-automation site, with substantial gains projected as it ramps up. For a cold-chain leader, this signals that expansion planning can address storage space and freezer exposure together. From moving goods, let's turn to Siemens and the work of preparing production.",
+      "topic_id": "story-3",
+      "pause_after_ms": 700,
+      "fileName": "008-host.mp3"
+    },
+    {
+      "id": 9,
+      "speaker": "expert",
+      "text": "Siemens disclosed two AI workflows being tested with NVIDIA in live production at its Erlangen electronics factory. One prepares inspection systems using computer-generated pictures of circuit boards before physical prototypes arrive. The other gives human production planners alternatives and checks those proposals in a computer simulation of the factory. That brings the partnership into specific factory tasks with a clear operational purpose.",
+      "topic_id": "story-2",
+      "pause_after_ms": 300,
+      "fileName": "009-expert.mp3"
+    },
+    {
+      "id": 10,
+      "speaker": "host",
+      "text": "For a manufacturer dealing with new products and changing orders, where does that save effort?",
+      "topic_id": "story-2",
+      "pause_after_ms": 300,
+      "fileName": "010-host.mp3"
+    },
+    {
+      "id": 11,
+      "speaker": "expert",
+      "text": "Inspection preparation can begin before sample boards exist, letting engineering work start earlier. Planning teams can explore changes before putting them onto the production floor. Siemens reports potential reductions of up to eighty-five percent in engineering effort and forty percent in time to market for virtual circuit-board production preparation, plus up to twenty percent cost savings from the planning workflow.",
+      "topic_id": "story-2",
+      "pause_after_ms": 300,
+      "fileName": "011-expert.mp3"
+    },
+    {
+      "id": 12,
+      "speaker": "host",
+      "text": "Those are large numbers. Should an operations team use them as expected gains?",
+      "topic_id": "story-2",
+      "pause_after_ms": 300,
+      "fileName": "012-host.mp3"
+    },
+    {
+      "id": 13,
+      "speaker": "expert",
+      "text": "They're company-reported upper bounds from live-production testing, with achieved savings still lacking independent validation. What is new is inspection preparation and simulation-checked planning inside an operating factory. For a manufacturer, these bounded workflows offer a route to faster product introductions and order response while human planners retain decisions. Mitsubishi Electric takes that coordination idea onto the machining floor.",
+      "topic_id": "story-2",
+      "pause_after_ms": 700,
+      "fileName": "013-expert.mp3"
+    },
+    {
+      "id": 14,
+      "speaker": "host",
+      "text": "Mitsubishi Electric announced a system that coordinates a humanoid robot with a computer-controlled metal-cutting machine. What work is it trying to bring together?",
+      "topic_id": "story-1",
+      "pause_after_ms": 300,
+      "fileName": "014-host.mp3"
+    },
+    {
+      "id": 15,
+      "speaker": "expert",
+      "text": "Setup, cleaning, finished-part handling, inspection and troubleshooting. The new element is coordination through ordinary-language instructions. A task planner divides up the work, while the machine and robot exchange operating information. That targets the surrounding operator tasks that keep a machining cell dependent on people even when the cutting itself is automated.",
+      "topic_id": "story-1",
+      "pause_after_ms": 300,
+      "fileName": "015-expert.mp3"
+    },
+    {
+      "id": 16,
+      "speaker": "host",
+      "text": "A machine shop already has equipment and established routines. Does this create a way to automate without rebuilding the line?",
+      "topic_id": "story-1",
+      "pause_after_ms": 300,
+      "fileName": "016-host.mp3"
+    },
+    {
+      "id": 17,
+      "speaker": "expert",
+      "text": "That's Mitsubishi's intended advantage: less production-line modification and less robot-specific integration. If the system can handle different machines and the exceptions operators deal with, existing shops could become more accessible to automation. This is a vendor-announced development system with a public demonstration planned for October twenty-six; reliable end-to-end operation remains unvalidated.",
+      "topic_id": "story-1",
+      "pause_after_ms": 300,
+      "fileName": "017-expert.mp3"
+    },
+    {
+      "id": 18,
+      "speaker": "host",
+      "text": "The addition is a shared task planner linking machine operation with humanoid support work. For a machining business, the strategic opening is automation reaching setup and exception handling across existing equipment. That raises a practical question: where do robots learn those skills? Munich's new RoboGym offers one answer.",
+      "topic_id": "story-1",
+      "pause_after_ms": 700,
+      "fileName": "018-host.mp3"
+    },
+    {
+      "id": 19,
+      "speaker": "expert",
+      "text": "The Technical University of Munich and NEURA opened RoboGym this week with about one hundred robots across forty-eight training cells. They're multiple robot types, working on industrial skills including assembly, tool use and material handling. The three-year collaboration totals about seventeen million euros, including eleven million from NEURA. That's a concrete commitment to shared training infrastructure.",
+      "topic_id": "story-4",
+      "pause_after_ms": 300,
+      "fileName": "019-expert.mp3"
+    },
+    {
+      "id": 20,
+      "speaker": "host",
+      "text": "How could that help a manufacturer whose process expertise sits with experienced operators?",
+      "topic_id": "story-4",
+      "pause_after_ms": 300,
+      "fileName": "020-host.mp3"
+    },
+    {
+      "id": 21,
+      "speaker": "expert",
+      "text": "The centre combines real robot practice, human demonstrations and simulation to develop skills. Manufacturers can investigate application-specific tasks without first building their own robot-data collection facility. NEURA says partners have been training workflows there since September. Both partners document the opened facility, but transferring learned skills reliably into customer factories remains an unproven outcome.",
+      "topic_id": "story-4",
+      "pause_after_ms": 300,
+      "fileName": "021-expert.mp3"
+    },
+    {
+      "id": 22,
+      "speaker": "host",
+      "text": "We now have an opened, shared facility for teaching industrial robot skills. For manufacturing leaders, that makes experienced operators' process knowledge a potential input to automation development. Bringing these stories together, what should stay on the executive agenda?",
+      "topic_id": "story-4",
+      "pause_after_ms": 700,
+      "fileName": "022-host.mp3"
+    },
+    {
+      "id": 23,
+      "speaker": "expert",
+      "text": "The common opportunity is the work surrounding production: preparing, coordinating, handling and teaching. AEON gives us an operating site; Siemens gives us live tests; Mitsubishi and RoboGym extend the development pipeline. Watch whether AEON's Hachioji ramp-up delivers its projected reduction in freezer working time—that would connect automation directly to a measurable workforce benefit.",
+      "topic_id": "closing",
+      "pause_after_ms": 300,
+      "fileName": "023-expert.mp3"
+    },
+    {
+      "id": 24,
+      "speaker": "host",
+      "text": "Thanks for listening to Physical AI Weekly. See you next Friday.",
+      "topic_id": "closing",
+      "pause_after_ms": 300,
+      "fileName": "024-host.mp3"
+    }
+  ]
+}
