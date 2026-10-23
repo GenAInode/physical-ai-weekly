@@ -15,6 +15,21 @@
 
 
 
+
+<item>
+<title>Robots Meet Factory Reality</title>
+<description>Intel is seeking permission to maintain and upgrade foreign-built robots already working in its US chip factories, making serviceability a production-continuity issue. Audi’s three-robot trial, Eka’s $150 million funding round and AGCO’s planned factory pilot show how adaptable material handling is moving toward practical industrial tests.</description>
+<content:encoded><![CDATA[
+<p>Factory automation depends on more than robot capability: equipment must fit the workflow, deliver reliable performance and remain serviceable. This week’s stories connect the challenge of maintaining installed robots with customer trials and new funding for more adaptable material handling.</p><h3>In this episode</h3><ul><li><strong>Intel’s maintenance challenge</strong>: Intel filed an FCC waiver request on October 16 to maintain and upgrade foreign-built material-carrying robots in its US chip factories, with the regulatory outcome still unresolved. For industrial leaders, service permissions and equipment origin now belong alongside reliability in long-term automation planning.</li><li><strong>Audi’s parts-sequencing trial</strong>: Audi disclosed progress on a three-robot Production Lab trial with Agile Robots, Dassault Systèmes and NVIDIA, targeting a wider sequencing workflow that handles roughly one million picks daily. Success could let automotive operators automate more varied parts flows while preserving existing racks and containers.</li><li><strong>Eka’s bet on touch</strong>: Eka Robotics raised $150 million for robots that use contact to guide object handling, reporting laboratory performance of up to 1,500 operations an hour. For warehouse and assembly leaders, touch-based handling is becoming a supplier differentiator, with sustained full-shift performance the next business test.</li><li><strong>AGCO’s Kansas commitment</strong>: AGCO signed an agreement with Agility Robotics for a Digit pilot expected to begin in 2027 at its Hesston factory, starting with parts sorting, stacking and tote placement. For manufacturing leaders, focused material-handling trials offer a practical way to assess humanoids before deciding whether to expand.</li></ul><p>The strongest business signals are specific workflows, named customers and equipment already supporting production. Useful automation earns its place through dependable operation—and the ability to keep it running.</p><h3>What we're watching</h3><ul><li><strong>Intel’s regulatory response</strong>: The FCC’s decision could shape how industrial companies plan maintenance and upgrades for installed robot fleets.</li><li><strong>Performance in the factory</strong>: Watch Audi’s progress toward operational sequencing, Eka’s sustained-shift results and AGCO’s 2027 task performance for evidence that capability translates into productive work.</li></ul>
+]]></content:encoded>
+<pubDate>Fri, 23 Oct 2026 00:06:30 GMT</pubDate>
+<guid isPermaLink="false">physical-ai-weekly-episode-04</guid>
+<enclosure url="https://genainode.github.io/physical-ai-weekly/episodes/episode-04.mp3" length="3488277" type="audio/mpeg"/>
+<itunes:duration>00:06:38</itunes:duration>
+<itunes:episode>4</itunes:episode>
+<itunes:episodeType>full</itunes:episodeType>
+<itunes:explicit>false</itunes:explicit>
+</item>
 <item>
 <title>From Robot Capability to Value</title>
 <description>A larger Navy inspection-contract ceiling and new adaptive welding offerings signal growing commercial interest in industrial robotics. Zhaofeng’s factory speed gap and Schaeffler’s software partnership show why task performance and repeatable deployment still determine the payoff.</description>
