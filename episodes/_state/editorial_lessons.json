@@ -1,0 +1,19 @@
+{
+  "version": 1,
+  "next_lesson": 2,
+  "next_change": 1,
+  "lessons": [
+    {
+      "id": "L1",
+      "status": "proposed",
+      "stage": "show_notes",
+      "rule": "For monetary amounts in currencies other than USD or EUR, retain the original amount and add a USD equivalent in parentheses, citing a verified exchange rate and its date.",
+      "check": "Does every monetary amount in a currency other than USD or EUR include a parenthetical USD equivalent with a cited exchange rate and date?",
+      "rationale": "USD equivalents help readers understand the magnitude of unfamiliar currencies; a sourced, dated conversion avoids unsupported figures.",
+      "source_episode": "Where Automation Spending Really Lands",
+      "proposed_at": "2026-10-26T04:00:27.180-04:00",
+      "decided_at": null
+    }
+  ],
+  "base_prompt_change_requests": []
+}
